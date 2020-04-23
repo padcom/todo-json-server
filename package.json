@@ -1,0 +1,15 @@
+{
+  "name": "todo-backend",
+  "version": "0.0.1",
+  "description": "A simple RESTful resource server for posts",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [],
+  "author": "Matthias Hryniszak",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "0.16.1"
+  }
+}
